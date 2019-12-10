@@ -432,6 +432,10 @@ K power resistor, balancing, BMS
 F https://www.bourns.com/docs/Product-Datasheets/PWR163.pdf
 $ENDCMP
 #
+$CMP RFM98W-433S2
+F https://www.rfsolutions.co.uk/downloads/1463993415RFM95_96_97_98W.pdf
+$ENDCMP
+#
 $CMP RJ45_RA
 D RJ45 ethernet connector right angle
 $ENDCMP

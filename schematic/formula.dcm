@@ -422,6 +422,18 @@ $CMP NanoFit_2
 D Nano-Fit connector 2 pin right angle
 $ENDCMP
 #
+$CMP OSTTC02
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf
+$ENDCMP
+#
+$CMP OSTTC03
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf
+$ENDCMP
+#
+$CMP OSTTC08
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf
+$ENDCMP
+#
 $CMP POT_TRIM_20k
 D TRIMMER 20KOHM 0.125W J LEAD TOP
 $ENDCMP

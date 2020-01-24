@@ -48,6 +48,24 @@ X Pin_9 9 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 01530008Z
+#
+DEF 01530008Z F 0 40 Y Y 1 F N
+F0 "F" -50 -200 50 H V C CNN
+F1 "01530008Z" 100 0 50 H V C CNN
+F2 "footprints:01530008Z" -50 -200 50 H I C CNN
+F3 "" -50 -200 50 H I C CNN
+F4 "01530008Z" 100 0 50 H I C CNN "MPN"
+F5 "F065-ND" 100 0 50 H I C CNN "DPN"
+F6 "https://www.digikey.com/product-detail/en/littelfuse-inc/01530008Z/F065-ND/183334" 100 0 50 H I C CNN "Purchasing Link"
+F7 "This is just a fuse reciprocal, the fuse it will hold is 0297010.WXNV (https://www.digikey.com/product-detail/en/littelfuse-inc/0297010.WXNV/F991-ND/146591)" 100 0 50 H I C CNN "Notes"
+DRAW
+S -100 -150 0 -350 0 1 0 f
+X ~ 1 100 -200 100 L 50 50 1 1 B
+X ~ 2 100 -300 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
 # 200mA_Fuse
 #
 DEF 200mA_Fuse F 0 40 Y Y 1 F N

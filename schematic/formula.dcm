@@ -6,6 +6,10 @@ K connector, header
 F https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf
 $ENDCMP
 #
+$CMP 01530008Z
+F https://www.littelfuse.com/~/media/commercial-vehicle/datasheets/automotive-fuse-holders/mini/littelfuse_fuse-holders-mini-153-pc-datasheet.pdf
+$ENDCMP
+#
 $CMP 200mA_Fuse
 D 200mA Fuse
 $ENDCMP
